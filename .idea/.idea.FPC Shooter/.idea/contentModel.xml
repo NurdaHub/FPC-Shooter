@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Git\FPC Shooter" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="MFPSC" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="FP_Player_Inspector.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="FP_CameraLook.cs" t="Include" />
+              <e p="FP_Classes.cs" t="Include" />
+              <e p="FP_Controller.cs" t="Include" />
+              <e p="FP_FastTurn.cs" t="Include" />
+              <e p="FP_FootSteps.cs" t="Include" />
+              <e p="FP_Input.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="FP_Button.cs" t="Include" />
+              <e p="FP_Joystick.cs" t="Include" />
+              <e p="FP_Lookpad.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Temp" t="Include">
+            <e p="WeaponExample.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BulletController.cs" t="Include" />
+          <e p="BulletSpawner.cs" t="Include" />
+          <e p="HealthManager.cs" t="Include" />
+          <e p="Pool.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FPC Shooter.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Santa\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Santa\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_FPC Shooter.2110823961.00" t="ExcludeRecursive" />
+  </component>
+</project>
