@@ -17,15 +17,15 @@ public class Detector : MonoBehaviour, IDetector
         
     }
 
-    private void OnTriggerEnter(Collider collider)
+    private void OnTriggerEnter(Collider otherCollider)
     {
-        if (IsDetectableObject(collider, out var detectedObject))
+        if (IsDetectableObject(otherCollider, out var detectedObject))
             Detect(detectedObject);
     }
 
-    private bool IsDetectableObject(Collider collider, out IDetectableObject detectedObject)
+    private bool IsDetectableObject(Collider otherCollider, out IDetectableObject detectedObject)
     {
-        detectedObject = collider.GetComponent<IDetectableObject>();
+        detectedObject = otherCollider.GetComponent<IDetectableObject>();
 
         return detectedObject != null;
     }

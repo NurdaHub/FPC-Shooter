@@ -33,18 +33,22 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Detector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BulletSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeSpawner.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/BulletSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/MFPSC/Temp/WeaponExample.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BulletController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/HealthManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IDetector.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IDetectableObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DetectableObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Detector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CubeSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CubeColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyController.cs" />
       </list>
     </option>
   </component>
@@ -91,6 +95,8 @@
       <workItem from="1640892814428" duration="3774000" />
       <workItem from="1640953008994" duration="6781000" />
       <workItem from="1641127464304" duration="4647000" />
+      <workItem from="1641205721513" duration="4584000" />
+      <workItem from="1641233987373" duration="1684000" />
     </task>
     <servers />
   </component>
@@ -109,6 +115,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

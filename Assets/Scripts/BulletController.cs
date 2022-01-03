@@ -1,5 +1,4 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class BulletController : MonoBehaviour
 {
@@ -25,9 +24,9 @@ public class BulletController : MonoBehaviour
         transform.Translate(translate);
     }
 
-    private void OnTriggerEnter(Collider collider)
+    private void OnTriggerEnter(Collider otherCollider)
     {
-        if (collider.CompareTag(wallTag) || collider.CompareTag(enemyTag))
+        if (otherCollider.CompareTag(wallTag) || otherCollider.CompareTag(enemyTag))
             gameObject.SetActive(false);
     }
 }

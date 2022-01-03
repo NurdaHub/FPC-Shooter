@@ -31,8 +31,11 @@
         <e p="Scripts" t="Include">
           <e p="BulletController.cs" t="Include" />
           <e p="BulletSpawner.cs" t="Include" />
+          <e p="CubeColor.cs" t="Include" />
+          <e p="CubeSpawner.cs" t="Include" />
           <e p="DetectableObject.cs" t="Include" />
           <e p="Detector.cs" t="Include" />
+          <e p="EnemyController.cs" t="Include" />
           <e p="HealthManager.cs" t="Include" />
           <e p="IDetectableObject.cs" t="Include" />
           <e p="IDetector.cs" t="Include" />
